@@ -8,4 +8,4 @@ I mostly write in Swift and SwiftUI, but also have some experience with Objectiv
 
 You can reach me using the followings:
 
-[Twitter](https://twitter.com/igooor_bb) · [Instagram](https://www.instagram.com/igooor_bb) · [Email](mailto:igooor.ww@gmail.com)
+[Twitter](https://twitter.com/igooor_bb) · [Instagram](https://www.instagram.com/igooor_bb) · [LinkedIn](https://www.linkedin.com/in/igooorbb) · [Email](mailto:igooor.ww@gmail.com)

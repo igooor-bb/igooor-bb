@@ -1,5 +1,3 @@
-— General Kenobi… 👾
-
 Hi! My name is Igor Belov and I am iOS Developer.
 
 Now I live in Innopolis, Russia, and study at the University there.

@@ -1,8 +1,6 @@
 Hi! My name is Igor Belov and I am iOS Developer.
 
-Now I live in Innopolis, Russia, and study at the University there.
-
-I mostly write in Swift and SwiftUI, but also have some experience with Objective-C. I have used many different frameworks over the time, listing which makes little practical sense.
+I am interested in various fundamental computer science topics and like to understand how things work under the hood.
 
 You can reach me using the followings:
 

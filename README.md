@@ -1,6 +1,4 @@
-Hi! My name is Igor Belov and I am iOS Developer.
-
-I am interested in various fundamental computer science topics and like to understand how things work under the hood.
+Hi! I am a software engineer who is interested in various fundamental computer science topics and like to understand how things work under the hood.
 
 You can reach me using the followings:
 
